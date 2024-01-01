@@ -2,6 +2,9 @@ import Image from 'next/image'
 import {HomeNav} from './components/partials/navbar'
 import Head from 'next/head'
 
+
+
+
 export default function Home() {
   return (
     <main className="  flex bg-gradient-to-b from-slate-950 to-slate-900 via-gray-950 min-h-screen flex-col items-center justify-between p-24">

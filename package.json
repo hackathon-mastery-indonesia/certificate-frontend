@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@dfinity/auth-client": "^0.20.2",
     "next": "14.0.4",
     "pg": "^8.11.3",
     "react": "^18",
